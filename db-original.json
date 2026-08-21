@@ -19,6 +19,98 @@
       "id": 4,
       "titulo": "Licenciatura em Pedagogia",
       "descricao": "Perfil: Formação para atuação no ensino e gestão educacional."
+    },
+    {
+      "id": 5,
+      "titulo": "Bacharelado em Administração",
+      "descricao": "Perfil: Formação para atuar na gestão de organizações, planejamento estratégico, finanças e processos administrativos."
+    },
+    {
+      "id": 6,
+      "titulo": "Bacharelado em Ciências Contábeis",
+      "descricao": "Perfil: Formação para atuar na contabilidade, auditoria, controladoria e gestão financeira de organizações."
+    },
+    {
+      "id": 7,
+      "titulo": "Tecnologia em Gestão de Recursos Humanos",
+      "descricao": "Perfil: Formação para atuar na gestão de pessoas, recrutamento, desenvolvimento profissional e relações de trabalho."
+    },
+    {
+      "id": 8,
+      "titulo": "Tecnologia em Marketing",
+      "descricao": "Perfil: Formação para planejar estratégias de marketing, comunicação, posicionamento de marcas e relacionamento com clientes."
+    },
+    {
+      "id": 9,
+      "titulo": "Licenciatura em Matemática",
+      "descricao": "Perfil: Formação de professores para o ensino de Matemática na educação básica, com fundamentos de álgebra, geometria e didática."
+    },
+    {
+      "id": 10,
+      "titulo": "Bacharelado em Engenharia de Produção",
+      "descricao": "Perfil: Formação para otimizar processos, recursos e sistemas produtivos com foco em qualidade, eficiência e inovação."
+    }
+  ],
+  "estudantes": [
+    {
+      "id": 1,
+      "nome": "Ana Beatriz Souza",
+      "cpf": "123.456.789-01",
+      "id_curso": 1
+    },
+    {
+      "id": 2,
+      "nome": "Bruno Henrique Lima",
+      "cpf": "234.567.890-12",
+      "id_curso": 2
+    },
+    {
+      "id": 3,
+      "nome": "Carolina Mendes Alves",
+      "cpf": "345.678.901-23",
+      "id_curso": 3
+    },
+    {
+      "id": 4,
+      "nome": "Daniel Oliveira Costa",
+      "cpf": "456.789.012-34",
+      "id_curso": 4
+    },
+    {
+      "id": 5,
+      "nome": "Eduarda Martins Rocha",
+      "cpf": "567.890.123-45",
+      "id_curso": 5
+    },
+    {
+      "id": 6,
+      "nome": "Felipe Augusto Ramos",
+      "cpf": "678.901.234-56",
+      "id_curso": 6
+    },
+    {
+      "id": 7,
+      "nome": "Gabriela Ferreira Santos",
+      "cpf": "789.012.345-67",
+      "id_curso": 7
+    },
+    {
+      "id": 8,
+      "nome": "Henrique Almeida Silva",
+      "cpf": "890.123.456-78",
+      "id_curso": 8
+    },
+    {
+      "id": 9,
+      "nome": "Isabela Nunes Castro",
+      "cpf": "901.234.567-89",
+      "id_curso": 9
+    },
+    {
+      "id": 10,
+      "nome": "Joao Pedro Barbosa",
+      "cpf": "012.345.678-90",
+      "id_curso": 10
     }
   ]
 }
